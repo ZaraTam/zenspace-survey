@@ -1,7 +1,7 @@
 # ZenSpace survey exploratory data analysis
 
 ### Jupyter Notebook
-<code>zenspace-survey.ipynb</code>
+[<code>zenspace-survey.ipynb</code>](https://github.com/ZaraTam/zenspace-survey/blob/master/zenspace-survey.ipynb)
 <br>
 <br>
 <br>
